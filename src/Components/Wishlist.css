@@ -1,0 +1,14 @@
+.wishlist-item {
+    margin-bottom: 20px;
+}
+
+.wishlist-item img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.wishlist-item .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

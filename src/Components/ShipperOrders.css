@@ -1,0 +1,35 @@
+.shipper-orders {
+    padding: 20px;
+  }
+  
+  .shipper-orders h2 {
+    margin-bottom: 20px;
+  }
+  
+  .shipper-orders table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .shipper-orders th, .shipper-orders td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .shipper-orders th {
+    background-color: #f4f4f4;
+    text-align: left;
+  }
+  
+  .shipper-orders tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .shipper-orders tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .shipper-orders .btn {
+    margin-right: 10px;
+  }
+  

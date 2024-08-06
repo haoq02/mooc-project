@@ -1,0 +1,78 @@
+/* General styling for the dashboard */
+.dashboard-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sidebar {
+  width: 200px;
+  border-right: 1px solid #ddd;
+  padding: 20px;
+}
+
+.sidebar-header {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.sidebar-menu {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar-menu li {
+  margin-bottom: 10px;
+}
+
+.sidebar-menu li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.main-content {
+  flex: 1;
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.btn-custom {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  margin-right: 5px;
+  display: inline-block;
+}
+
+.btn-custom.btn-danger {
+  background-color: #dc3545;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.table tbody td {
+  vertical-align: middle;
+}
+
+/* New CSS for button alignment in the Manage Users section */
+.btn-group {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.btn-group .btn-custom {
+  margin-right: 10px;
+}
+
+.table-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.table-actions .btn-custom {
+  flex: 1;
+}

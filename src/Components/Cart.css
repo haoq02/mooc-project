@@ -1,0 +1,36 @@
+.empty-cart {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.order-summary {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background: #f9f9f9;
+}
+
+.order-summary h4 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.order-summary-details {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.order-summary p {
+    margin: 0;
+}
+
+.order-summary h4:last-child {
+    margin-top: 20px;
+}
+
+.btn-block {
+    width: 100%;
+    margin-top: 20px;
+}

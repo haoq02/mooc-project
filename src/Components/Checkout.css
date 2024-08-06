@@ -1,0 +1,81 @@
+
+
+.container {
+    padding: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.order-summary {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    background: #f9f9f9;
+    margin-top: 1rem;
+}
+
+.order-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.item-image img {
+    width: 80px;
+    height: 80px;
+    margin-right: 1rem;
+}
+
+.item-details h4 {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.item-details p {
+    margin: 0.25rem 0;
+    font-size: 0.875rem;
+}
+
+.item-details span {
+    font-size: 1rem;
+    color: #000;
+    font-weight: bold;
+}
+
+.order-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.25rem;
+    margin-top: 1.5rem;
+}
+
+.order-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.order-actions button {
+    width: 48%;
+}
+
+.order-summary button {
+    margin-top: 1rem;
+    width: 100%;
+}
+
+form .form-group {
+    margin-bottom: 1.5rem;
+}
+
+form .form-check {
+    margin-bottom: 1rem;
+}
+
+.text-muted {
+    font-size: 0.75rem;
+    color: #dc3545;
+}

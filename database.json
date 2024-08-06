@@ -1,0 +1,669 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Áo"
+    },
+    {
+      "id": "2",
+      "name": "Quần"
+    },
+    {
+      "id": "3",
+      "name": "Giày"
+    },
+    {
+      "id": "4",
+      "name": "Dành cho nữ"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "MLB - Áo sơ mi denim Basic Multi Mega Logo Prints",
+      "price": 150,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "name": "https://product.hstatic.net/200000642007/product/07crs_3adrb0243_1_2493ec4fcc00483882c6d2319fad8e4d_ccd0c42bf52649c9b603415d163bbcf0_master.jpg"
+        },
+        {
+          "id": 2,
+          "name": "https://product.hstatic.net/200000642007/product/07crs_3adrb0243_2_c131c8f5a2034180b2a62913118736aa_d9673c0a2aa3464483baa66b1489b66e_master.jpg"
+        },
+        {
+          "id": 3,
+          "name": "https://product.hstatic.net/200000642007/product/07crs_3adrb0243_3_9f52ad77378f4a5d9928e5ac723a37e3_ae6e732bf1ca40a0b6e46da4ea9161fe_master.jpg"
+        },
+        {
+          "id": 4,
+          "name": "https://product.hstatic.net/200000642007/product/07crs_3adrb0243_7_b20e19fa42e04a11b5c15bd7b9573d0d_56797e2cef344d4b8527f11772099dad_master.jpg"
+        }
+      ],
+      "cid": 1,
+      "status": true
+    },
+    {
+      "id": "4",
+      "name": "MLB - Chân váy denim mini phom chữ A Heart Jacquard",
+      "price": 170,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "name": "https://product.hstatic.net/200000642007/product/50bll_3fdsh0143_1_11bf6f9c08f640eb8cc33fb715cbfe62_a0b50415148c481790ca0ec5783ce529_master.jpg"
+        },
+        {
+          "id": 2,
+          "name": "https://product.hstatic.net/200000642007/product/50bll_3fdsh0143_2_e74e5798e63b414e8636bc669fdc87db_af85e4f59dbf4de6874d2f46f85afff9_master.jpg"
+        },
+        {
+          "id": 3,
+          "name": "https://product.hstatic.net/200000642007/product/50bll_3fdsh0143_3_35561277025646a5b5f275a8bb95859b_cd2d4e6c5c694a909468197f349ab9a5_master.jpg"
+        },
+        {
+          "id": 4,
+          "name": "https://product.hstatic.net/200000642007/product/50bll_3fdsh0143_5_992bee8ca91f4880bdcdc3b172b41b8c_993a1074d9754eb7957e7d9af4153cae_master.jpg"
+        }
+      ],
+      "cid": 4,
+      "status": true
+    },
+    {
+      "id": "2",
+      "name": "MLB - Quần jeans ống rộng Multi Mega Logo",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price": 200,
+      "images": [
+        {
+          "id": 1,
+          "name": "https://product.hstatic.net/200000642007/product/43crm_3fdpb0334_1_118f6ef0d198422b972d2878d36f4359_8af09d87efd547b299b56b098340f1b7_master.jpg"
+        },
+        {
+          "id": 2,
+          "name": "https://product.hstatic.net/200000642007/product/43crm_3fdpb0334_2_056235e143dc4b888445aae3ad65e61c_43b3c0512b664a0684c018ca70cfb877_master.jpg"
+        },
+        {
+          "id": 3,
+          "name": "https://product.hstatic.net/200000642007/product/43crm_3fdpb0334_4_a8d426c660994f46925f0f424b41f247_ae8e3619a3a74d33b69a67e5526d7083_master.jpg"
+        },
+        {
+          "id": 4,
+          "name": "https://product.hstatic.net/200000642007/product/43crm_3fdpb0334_5_6a20740e10194c16b49b438085882a1a_3cfa9c4e14a94968babfa5dd64501871_master.jpg"
+        }
+      ],
+      "cid": 2,
+      "status": false
+    },
+    {
+      "id": "3",
+      "name": "MLB - Giày sneakers unisex cổ thấp Chunky Liner",
+      "price": 190,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "name": "https://product.hstatic.net/200000642007/product/43bgs_3asxclb3n_1_028ce5f3ced843ee8d42f5c5bd3132c0_8da73bff4e474d8392ac9e8a87e6aff4_master.jpg"
+        },
+        {
+          "id": 2,
+          "name": "https://product.hstatic.net/200000642007/product/43bgs_3asxclb3n_2_c73b450337ff41a194802d5bf8c8d8c4_49983f31a78c48cf829d799f6506e468_master.jpg"
+        },
+        {
+          "id": 3,
+          "name": "https://product.hstatic.net/200000642007/product/43bgs_3asxclb3n_5_8714d23d49294026b19ef565a043da28_69da25e1562146d4b28eea0364e561fa_master.jpg"
+        },
+        {
+          "id": 4,
+          "name": "https://product.hstatic.net/200000642007/product/43bgs_3asxclb3n_7_06e6be76e21343c0a1a97e4721c0788c_2ed38e9831ef412ab00de5bc419eab20_master.jpg"
+        }
+      ],
+      "cid": 3,
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "MLB - Áo sơ mi unisex cổ bẻ tay ngắn Diamond Jacquard",
+      "price": 170,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        {
+          "id": 1,
+          "name": "https://product.hstatic.net/200000642007/product/50whs_3awsm0343_1_1d4f954c83804ebeae975a5a0339f91b_478504a2df824d57b927df818ec3cd5f_master.jpg"
+        },
+        {
+          "id": 2,
+          "name": "https://product.hstatic.net/200000642007/product/50whs_3awsm0343_3_d610b3a89f78402393a43c8108be9366_a2f8934a74e0405999da88852b3982c7_master.jpg"
+        },
+        {
+          "id": 3,
+          "name": "https://product.hstatic.net/200000642007/product/50whs_3awsm0343_6_3a77a59a962b46bcaca185925eee5ccf_7c622a957a524fe78d8aa834e5fbeacd_master.jpg"
+        },
+        {
+          "id": 4,
+          "name": "https://product.hstatic.net/200000642007/product/50whs_3awsm0343_7_00f547860ef14191b1ab42ca5b707076_1da50878621541eb86ee5d8fa9464c07_master.jpg"
+        }
+      ],
+      "cid": 1,
+      "status": true
+    }
+  ],
+  "users": [
+    {
+      "id": "2",
+      "name": "john_doe",
+      "email": "quanggminh@123.com",
+      "password": "123456",
+      "address": "123 HCm Street, City, Country",
+      "role": "admin",
+      "phoneNumber": "adad",
+      "fullName": "quang"
+    },
+    {
+      "id": "1",
+      "name": "nguyen hao",
+      "email": "haonguyen493@gmail.com",
+      "address": "123 HCm Street, City, Country",
+      "phoneNumber": "0966171568",
+      "password": "12345678",
+      "role": "user",
+      "otp": null,
+      "fullName": "manh hao"
+    },
+    {
+      "id": "4",
+      "fullName": "VanTruong",
+      "email": "iloveyouxg123@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "address": "Xuan Giang",
+      "phoneNumber": "0866944804"
+    },
+    {
+      "id": "5",
+      "fullName": "VanTruongLong",
+      "email": "iloveyouxg1234@gmail.com",
+      "password": "123456",
+      "phoneNumber": "0966171123",
+      "role": "user",
+      "address": "Son La"
+    },
+    {
+      "id": "6",
+      "fullName": "quynh",
+      "email": "quynh@gmail.com",
+      "password": "123456",
+      "address": "kim ma",
+      "phoneNumber": "0933111444",
+      "role": "user"
+    },
+    {
+      "id": "7",
+      "name": "Shipman Joe",
+      "email": "shipmanjoe@example.com",
+      "password": "123456",
+      "address": "456 Delivery Lane, City, Country",
+      "phoneNumber": "987654321",
+      "role": "shipper",
+      "fullName": "anh shipper"
+    },
+    {
+      "id": "8",
+      "fullName": "Nguyễn Lương Huy",
+      "email": "nguyenluonghuyxg1@gmail.com",
+      "password": "123456",
+      "address": "Xuan Giang ",
+      "phoneNumber": "0866944804",
+      "role": "user"
+    },
+    {
+      "id": "9",
+      "fullName": "manh hao",
+      "email": "haonguyen49@gmail.com",
+      "password": "123456",
+      "address": "hoang cau",
+      "phoneNumber": "0966171568",
+      "role": "user"
+    },
+    {
+      "id": "10",
+      "fullName": "hao",
+      "email": "haonguyen2002@gmail.com",
+      "password": "123456",
+      "address": "hoang cau",
+      "phoneNumber": "0966171568",
+      "role": "user"
+    },
+    {
+      "id": "11",
+      "fullName": "minh",
+      "email": "minh12@gmail.com",
+      "password": "123456",
+      "address": "thach that",
+      "phoneNumber": "0966171568",
+      "role": "user"
+    }
+  ],
+  "wishlists": [
+    {
+      "id": "1",
+      "email": "quynh@gmail.com",
+      "productIds": [
+        "5"
+      ]
+    },
+    {
+      "id": "0116",
+      "email": "haonguyen493@gmail.com",
+      "productIds": []
+    },
+    {
+      "id": "f3cc",
+      "email": "dang@gmail.com",
+      "productIds": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "id": "0ac3",
+      "email": "iloveyouxg1234@gmail.com",
+      "productIds": []
+    },
+    {
+      "id": "7fcf",
+      "email": "quanggminh@123.com",
+      "productIds": []
+    },
+    {
+      "id": "1ad6",
+      "email": "haonguyen49@gmail.com",
+      "productIds": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "id": "09c5",
+      "email": "shipmanjoe@example.com",
+      "productIds": []
+    }
+  ],
+  "carts": [
+    {
+      "id": "1",
+      "userId": "1",
+      "cartItems": [
+        {
+          "pid": "4",
+          "size": "M",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "02f4",
+      "userId": null,
+      "cartItems": [
+        {
+          "pid": "5",
+          "size": "M",
+          "quantity": 1
+        },
+        {
+          "pid": "4",
+          "size": "M",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "03e2",
+      "userId": null,
+      "email": "quynh@gmail.com",
+      "cartItems": [
+        {
+          "pid": "1",
+          "size": "M",
+          "quantity": 2
+        },
+        {
+          "pid": "4",
+          "size": "L",
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "customerId": "1",
+      "status": "true",
+      "total": 470,
+      "orderItems": [
+        {
+          "pid": "1",
+          "size": "M",
+          "quantity": 2
+        },
+        {
+          "pid": "4",
+          "size": "L",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "customerId": "1",
+      "status": "true",
+      "total": 190,
+      "orderItems": [
+        {
+          "pid": "3",
+          "size": "39",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "3e7e",
+      "customerId": "1",
+      "status": "true",
+      "total": 170,
+      "orderItems": [
+        {
+          "pid": "4",
+          "size": "M",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "2278",
+      "customerId": "1",
+      "status": "true",
+      "total": 150,
+      "orderItems": [
+        {
+          "pid": "1",
+          "size": "M",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "b49c",
+      "customerId": "1",
+      "status": "true",
+      "total": 170,
+      "orderItems": [
+        {
+          "pid": "4",
+          "size": "M",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "eb83",
+      "customerId": "1",
+      "status": "true",
+      "total": 150,
+      "orderItems": [
+        {
+          "pid": "1",
+          "size": "M",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "2274",
+      "customerId": "1",
+      "status": "true",
+      "total": 170,
+      "orderItems": [
+        {
+          "pid": "4",
+          "size": "L",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "45df",
+      "customerId": "1",
+      "status": "true",
+      "total": 660,
+      "orderItems": [
+        {
+          "pid": "4",
+          "size": "S",
+          "quantity": 1
+        },
+        {
+          "pid": "4",
+          "size": "L",
+          "quantity": 1
+        },
+        {
+          "pid": "1",
+          "size": "M",
+          "quantity": 1
+        },
+        {
+          "pid": "5",
+          "size": "M",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "b066",
+      "customerId": "1",
+      "status": "accepted",
+      "total": 150,
+      "orderItems": [
+        {
+          "pid": "1",
+          "size": "S",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "2bff",
+      "customerId": "1",
+      "status": "accepted",
+      "total": 360,
+      "orderItems": [
+        {
+          "pid": "3",
+          "size": "39",
+          "quantity": 1
+        },
+        {
+          "pid": "4",
+          "size": "L",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "096b",
+      "customerId": "8",
+      "status": "accepted",
+      "total": 150,
+      "orderItems": [
+        {
+          "pid": "1",
+          "size": "L",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "fe4b",
+      "customerId": "8",
+      "status": "false",
+      "total": 170,
+      "orderItems": [
+        {
+          "pid": "4",
+          "size": "XL",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "1751",
+      "customerId": "8",
+      "status": "false",
+      "total": 190,
+      "orderItems": [
+        {
+          "pid": "3",
+          "size": "39",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "ac35",
+      "customerId": "1",
+      "status": "false",
+      "total": 170,
+      "orderItems": [
+        {
+          "pid": "4",
+          "size": "XL",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "b2b2",
+      "customerId": "8",
+      "status": "false",
+      "total": 190,
+      "orderItems": [
+        {
+          "pid": "3",
+          "size": "39",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "213f",
+      "customerId": "8",
+      "status": "false",
+      "total": 170,
+      "orderItems": [
+        {
+          "pid": "4",
+          "size": "XL",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "a2ff",
+      "customerId": "8",
+      "status": "false",
+      "total": 150,
+      "orderItems": [
+        {
+          "pid": "1",
+          "size": "XL",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "266a",
+      "customerId": "9",
+      "status": "accepted",
+      "total": 150,
+      "orderItems": [
+        {
+          "pid": "1",
+          "size": "S",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "a4c4",
+      "customerId": "1",
+      "status": "true",
+      "total": 170,
+      "orderItems": [
+        {
+          "pid": "4",
+          "size": "S",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "6559",
+      "customerId": "1",
+      "status": "false",
+      "total": 150,
+      "orderItems": [
+        {
+          "pid": "1",
+          "size": "S",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "f3a3",
+      "customerId": "1",
+      "status": "true",
+      "total": 450,
+      "orderItems": [
+        {
+          "pid": "1",
+          "size": "S",
+          "quantity": 2
+        },
+        {
+          "pid": "1",
+          "size": "M",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
